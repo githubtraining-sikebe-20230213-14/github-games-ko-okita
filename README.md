@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://githubtraining-sikebe-20230213-14.github.io/github-games-ko-okita
+You can play the game at: [https://githubtraining-sikebe-20230213-14.github.io/github-games-ko-okita](https://githubtraining-sikebe-20230213-14.github.io/github-games-ko-okita)
  
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
